@@ -1,0 +1,2 @@
+[done] Architecture review
+[done] Handover documentation
